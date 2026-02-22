@@ -119,8 +119,8 @@ Azure Portal Dashboard
 Successful Deployment / Output
 <img src="Azure%20Internhip/Screenshot%202026-02-05%20175230.png" width="800">
 
-<img src="Azure%20Internhip/Screenshot%202026-02-08%20084253.png" width="800">
-
+<img src="Azure%20Internhip/Screenshot%202026-02-10%20130650.png" width="800">
+<img src="Azure%20Internhip/Screenshot%202026-02-12%20182614.png" width="800">
 ## 🔗 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
 **GitHub:** https://github.com/PRANAYKHOJARE
