@@ -94,19 +94,17 @@ Each project folder includes screenshots showing:
 - Trigger execution  
 - AI model training & results
 
-- ![Pipeline Success](Screenshot 2026-02-05 174757.png)
-
 - ## 📸 Screenshots
+## 📸 Screenshots
 
 ### Azure Data Factory – Copy Activity
-![Copy Activity Success](screenshots/copy-activity-success.png)
+<img src="Azure-Data-Factory/copy-activity/screenshots/copy-activity-success.png" width="800">
 
 ### Filter Activity Output
-![Filter Activity Output](screenshots/filter-output.png)
+<img src="Azure-Data-Factory/filter-activity/screenshots/filter-output.png" width="800">
 
 ### ForEach Pipeline Execution
-![ForEach Pipeline](screenshots/foreach-run.png)
-
+<img src="Azure-Data-Factory/foreach-activity/screenshots/foreach-run.png" width="800">
 ---
 
 ## 🔗 Connect With Me
