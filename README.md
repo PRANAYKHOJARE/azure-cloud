@@ -98,13 +98,16 @@ Each project folder includes screenshots showing:
 ## 📸 Screenshots
 
 ### Azure Data Factory – Copy Activity
-<img src="Azure-Data-Factory/copy-activity/screenshots/copy-activity-success.png" width="800">
+<img src="Azure-Data-Factory/copy-activity/copy%20activity.png" width="800">
 
 ### Filter Activity Output
-<img src="Azure-Data-Factory/filter-activity/screenshots/filter-output.png" width="800">
+<img src="Azure-Data-Factory/filter-activity/Filter.png" width="800">
 
 ### ForEach Pipeline Execution
-<img src="Azure-Data-Factory/foreach-activity/screenshots/foreach-run.png" width="800">
+<img src="Azure-Data-Factory/foreach-activity/For-each%20activity.png" width="800">
+ ### Triggers
+<img src="Azure-Data-Factory/triggers/triggers.png" width="800">
+
 ---
 
 ## 🔗 Connect With Me
