@@ -109,6 +109,17 @@ Each project folder includes screenshots showing:
 <img src="Azure-Data-Factory/triggers/triggers.png" width="800">
 
 ---
+📸 Internship Screenshots
+Azure Portal Dashboard
+<img src="Azure%20Internhip/Screenshot%202026-02-05%20174757.png" width="800">
+
+🔹 Data Factory Pipeline Execution
+<img src="Azure%20Internhip/Screenshot%202026-02-05%20175108.png" width="800">
+
+Successful Deployment / Output
+<img src="Azure%20Internhip/Screenshot%202026-02-05%20175230.png" width="800">
+
+<img src="Azure%20Internhip/Screenshot%202026-02-08%20084253.png" width="800">
 
 ## 🔗 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/your-linkedin-username  
